@@ -1,9 +1,9 @@
 <?php
 // Konfiguracja bazy danych
-define('DB_HOST', 'mysql.agh.edu.pl');
-define('DB_NAME', 'wraczek');
-define('DB_USER', 'wraczek');
-define('DB_PASS', 'dupa123');
+define('DB_HOST', 'xxx');
+define('DB_NAME', 'xxx');
+define('DB_USER', 'xxx');
+define('DB_PASS', 'xxx');
 
 // Inicjalizacja sesji
 session_start();
